@@ -68,7 +68,7 @@ const projects = [
   },
 
   {
-    name: "Capital Film Production Website",
+    name: "Capital Film Production",
     dept: {
       name: "Capital Film Production",
       role: "WordPress Dev",
