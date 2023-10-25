@@ -149,6 +149,7 @@ button {
   color: #396df2;
   background: none;
   transition: all 0.5s ease-out;
+  cursor: pointer;
 }
 
 nav > button {
@@ -596,8 +597,7 @@ label {
   }
 
   .headline-section {
-    background:
-      #fff url("images/headline-section-bg-desktop.png") no-repeat
+    background: #fff url("images/headline-section-bg-desktop.png") no-repeat
       100% 35%;
     background-size: contain;
     padding: 16.4rem 15rem 17.5rem 15rem;
@@ -683,8 +683,7 @@ label {
 
   .contact-form > div {
     padding: 7.2rem 3.2rem 8.7rem 3.2rem;
-    background:
-      #6070ff url("images/contact-form-desktop-bg.png") no-repeat
+    background: #6070ff url("images/contact-form-desktop-bg.png") no-repeat
       center 15%;
     background-size: contain;
     align-items: center;
@@ -796,8 +795,7 @@ label {
   }
 
   .headline-section {
-    background:
-      #fff url("images/headline-section-bg-desktop.png") no-repeat
+    background: #fff url("images/headline-section-bg-desktop.png") no-repeat
       100% 50%;
     background-size: contain;
     padding: 31.4rem 26rem 25.5rem 26rem;
@@ -816,8 +814,7 @@ label {
   }
 
   .contact-form > div {
-    background:
-      #6070ff url("images/contact-form-desktop-bg.png") no-repeat
+    background: #6070ff url("images/contact-form-desktop-bg.png") no-repeat
       center bottom;
     background-size: contain;
     padding: 14.2rem 3.2rem 12.7rem 3.2rem;
